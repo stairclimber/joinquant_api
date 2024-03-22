@@ -1335,6 +1335,7 @@ def run_daily(
             None,
         ],
         time: str,
+        reference_security: str = ''
 ): ...
 
 
